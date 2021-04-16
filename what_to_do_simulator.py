@@ -2,11 +2,11 @@
 import random
 
 #Check if this gets added after commit
-#Check if this gets added after pulling
+#TEST NUMBER 3
 def task_simulator():
     print("Do you have so much work that you don't know where to start?")
     print("Use this random number generator to figure out what to do!\n")
-    
+
     print("Instructions: type in an objective. At the end, type in 'END'")
 
     task_list = []
