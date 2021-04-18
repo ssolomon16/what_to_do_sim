@@ -1,7 +1,7 @@
                         ## WHAT TO DO SIMULATOR ##
 import random
 
-#Terminal test #1
+#Terminal test #2
 #Check if this gets added after PUSH
 def task_simulator():
     print("Do you have so much work that you don't know where to start?")
